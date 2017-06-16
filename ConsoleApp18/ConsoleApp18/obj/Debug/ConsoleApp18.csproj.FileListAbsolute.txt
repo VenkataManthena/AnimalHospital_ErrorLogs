@@ -1,0 +1,6 @@
+E:\visual studio 2017\Projects\ConsoleApp18\ConsoleApp18\bin\Debug\ConsoleApp18.exe.config
+E:\visual studio 2017\Projects\ConsoleApp18\ConsoleApp18\bin\Debug\ConsoleApp18.exe
+E:\visual studio 2017\Projects\ConsoleApp18\ConsoleApp18\bin\Debug\ConsoleApp18.pdb
+E:\visual studio 2017\Projects\ConsoleApp18\ConsoleApp18\obj\Debug\ConsoleApp18.csprojResolveAssemblyReference.cache
+E:\visual studio 2017\Projects\ConsoleApp18\ConsoleApp18\obj\Debug\ConsoleApp18.exe
+E:\visual studio 2017\Projects\ConsoleApp18\ConsoleApp18\obj\Debug\ConsoleApp18.pdb
